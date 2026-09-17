@@ -33,7 +33,17 @@ through a simple mobile-friendly interface.
 
 ## Screenshots
 
-Screenshots will be added soon.
+### Home Page
+
+![LUMA home page](docs/screenshots/home-screenshot.png)
+
+### Product Details
+
+![LUMA product drawer](docs/screenshots/drawer-screenshot.png)
+
+### Admin Dashboard
+
+![LUMA admin dashboard](docs/screenshots/dashboard-screenshot.png)
 
 ## Local Installation
 
